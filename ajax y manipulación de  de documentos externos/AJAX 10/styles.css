@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: black;
+}
+
+#playlist {
+    margin-top: 20px;
+}
+
+.audio-item {
+    cursor: pointer;
+    margin: 10px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    display: inline-block;
+    background-color: #fff;
+}
+
+.audio-item:hover {
+    background-color: #f0f0f0;
+}
+
+h1{
+    color: #f0f0f0;
+}

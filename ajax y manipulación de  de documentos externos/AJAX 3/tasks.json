@@ -1,0 +1,5 @@
+[
+    {"id": 1, "text": "Hacer la compra", "completed": false},
+    {"id": 2, "text": "Estudiar para el examen", "completed": true},
+    {"id": 3, "text": "Ejercicio de 30 minutos", "completed": false}
+]
